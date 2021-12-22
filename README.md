@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg" alt="Yohesky Pimentel " />
+  <img height="90px" width="100%" src="https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg" alt="Yohesky Pimentel " />
 </div>
 
 <h1 align="center">👋 I'm Yohesky Pimentel, Frontend Developer</h1>
