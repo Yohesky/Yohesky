@@ -4,11 +4,11 @@
 
 <h1 align="center">👋 I'm Yohesky Pimentel, Frontend Developer</h1>
 
-<p> 📄 I'm computer engineer </p>
-<p> 💬 I've little more than 1 year of experience working as frontend developer </p>
-<p> 💬 I have certains knowledges about create APIS with node </p>
-<p> 🌱 I'm autodidact </p>
-<p> 👨‍💻 Apppasionate to getting always more knowlodge and experience </p>
+<p> 🎓 I'm computer engineer </p>
+<p> 📅 I've little more than 1 year of experience working as frontend developer </p>
+<p> 🧠 I have certains knowledges about create APIS with node </p>
+<p> 📈 I'm autodidact </p>
+<p> 💥💻 Apppasionate to getting always more knowlodge and experience </p>
 <p> 📫 Leave me a message:
 <a href="https://www.linkedin.com/in/yohesky-jose-pimentel-portillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohesky-jose-pimentel-portillo/" height="20" width="30" /></a></p>
 
