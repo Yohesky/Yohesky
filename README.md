@@ -38,14 +38,6 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -81,14 +73,6 @@
       style="max-width: 100%"
   /></a>
 
-  <a href="https://gulpjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-      alt="gulp"
-      width="40"
-      height="40"
-    />
-  </a>
   </p>
 <p>
   
@@ -119,16 +103,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img
-      src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"
-      alt="sqlite"
-      width="40"
-      height="40"
-      data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      style="max-width: 100%"
-    />
-  </a>
+
 
   <a href="https://heroku.com" target="_blank">
     <img
@@ -139,33 +114,8 @@
     />
   </a>
 
-  <a href="https://zeplin.io/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png"
-      alt="Zeplin"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-  /></a>
 
-  <a href="https://slack.com/" target="_blank">
-    <img
-      src="https://camo.githubusercontent.com/d04b3327e0e9fb941fb8dede96375c7425135a349054a0ed65e5047c59e8918c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f736c61636b2d6e65772e706e67"
-      alt="Slack"
-      width="40"
-      height="40"
-      data-canonical-src="https://img.icons8.com/color/452/slack-new.png"
-      style="max-width: 100%"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-    
-  </a>
+
+
    
 </p>
