@@ -86,9 +86,12 @@
 <p>
   
    <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEVHcEwAesEPj9gkq/UKhMsAgsoAebsAbbAmtPUiqPIOjtUAeLoAe8IlsPMjqPIAdrgAfMMAi9MAjtUAaK0AfcMkrPMAjdUAb7MAdLYAitMjqfIAfMoAhdEAZqsAgM8hpfIAgM8Dg9EgofIAdMggn/AAcMcJFOONAAAAJHRSTlMAjPGdFrz///+6Jt0I/4j/QZf/+mX/45///////+P//93+//Rp+cbUAAAA80lEQVR4AX3TRQLDMAxE0Qm6YWam+1+xspUyfC1fODa+pOmGiR9ZtrhcHPerebbEr+yTEQYBcfhmJhGj7NVcZdETuneL7egNk1Q/OY7OshPJqFxaHtlsHgoORJQFaNGZhjvGrGUlai7GA+E2VNqkkVLPB9VyAEyp5J0QdQW8IvySuc9ifOLQN9wnmkJkI51HNQnjxAGuqEk7Iumzr7BVg1iohqQ/i5/OZKsA7abaAytp/Pn6fqTplxnTqobOEJkJVTyebdO6rvu0v/4yOlN20Fk7HYCXXBLGXQ5eM6V1x7Sr8N4scVUW4lM7xu8r1yJk+rsdrslQJWvXo+KOAAAAAElFTkSuQmCC" alt="Visual Studio Code" width="35" height="35">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="35" height="35">
+   </a>
   
-  
+  <a href="https://www.java.com/es/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" width="35" height="35">
+   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
