@@ -86,7 +86,7 @@
 <p>
   
    <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="Visual Studio Code" width="35" height="35">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEVHcEwAesEPj9gkq/UKhMsAgsoAebsAbbAmtPUiqPIOjtUAeLoAe8IlsPMjqPIAdrgAfMMAi9MAjtUAaK0AfcMkrPMAjdUAb7MAdLYAitMjqfIAfMoAhdEAZqsAgM8hpfIAgM8Dg9EgofIAdMggn/AAcMcJFOONAAAAJHRSTlMAjPGdFrz///+6Jt0I/4j/QZf/+mX/45///////+P//93+//Rp+cbUAAAA80lEQVR4AX3TRQLDMAxE0Qm6YWam+1+xspUyfC1fODa+pOmGiR9ZtrhcHPerebbEr+yTEQYBcfhmJhGj7NVcZdETuneL7egNk1Q/OY7OshPJqFxaHtlsHgoORJQFaNGZhjvGrGUlai7GA+E2VNqkkVLPB9VyAEyp5J0QdQW8IvySuc9ifOLQN9wnmkJkI51HNQnjxAGuqEk7Iumzr7BVg1iohqQ/i5/OZKsA7abaAytp/Pn6fqTplxnTqobOEJkJVTyebdO6rvu0v/4yOlN20Fk7HYCXXBLGXQ5eM6V1x7Sr8N4scVUW4lM7xu8r1yJk+rsdrslQJWvXo+KOAAAAAElFTkSuQmCC" alt="Visual Studio Code" width="35" height="35">
   
   
   <a href="https://nodejs.org" target="_blank">
